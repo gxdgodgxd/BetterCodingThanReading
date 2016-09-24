@@ -8,25 +8,30 @@ import java.util.List;
  */
 
 public class OJ22 {
+
     public static List<String> generateParenthesis(int n) {
-        List<String> list = new ArrayList<>();
-        if (n==1) {
-            list.add("()");
-            return list;
+        List<String> res = new ArrayList<>();
+        helper(res, n, n, "");
+        return res;
+    }
+
+    static void helper(List<String> res, int left, int right, String str) {
+        if (right == 0) {
+            res.add(str);
+            return;
         }
-        for (String s : generateParenthesis(n - 1)) {
-            list.add("(" + s + ")");
-            if (!list.contains("()" + s)) {
-                list.add("()" + s);
-            }
-            if (!list.contains(s+"()")) {
-                list.add(s + "()");
-            }
+        if (left>0) {
+            helper(res, left - 1, right, str + "(");
         }
-        return list;
+        if (right>left) {
+            helper(res, left, right - 1, str + ")");
+        }
     }
 
     public static void main(String[] args) {
-        System.out.println(OJ22.generateParenthesis(4));
+        List<String> res = OJ22.generateParenthesis(3);
+        for (String re : res) {
+            System.out.println(re);
+        }
     }
 }
