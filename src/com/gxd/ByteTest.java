@@ -5,7 +5,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * Created by gxdgodgxd on 16/9/8.
  */
-public class test {
+public class ByteTest {
 
     public static void main(String[] args) {
         byte[] bytes = new byte[256];
