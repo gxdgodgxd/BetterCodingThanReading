@@ -6,6 +6,7 @@ package com.gxd.Concurrent;
 public class CountNum implements Runnable{
 
     private static Integer num = 0;
+    private static final Object object = new Object();
 
     @Override
     public void run() {
@@ -16,13 +17,19 @@ public class CountNum implements Runnable{
                 e.printStackTrace();
             }
             synchronized (num) {
+//                num++;
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 System.out.println(Thread.currentThread().getName() + " num : " + num++);
             }
         }
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 10; i++) {
             new Thread(new CountNum()).start();
         }
     }

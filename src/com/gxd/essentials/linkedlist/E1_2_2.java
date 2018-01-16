@@ -5,16 +5,8 @@ package com.gxd.essentials.linkedlist;
  */
 public class E1_2_2 {
 
-    public class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
-
     public ListNode oddEvenList(ListNode head) {
+        if(head==null) return head;
         ListNode odd = head;
         ListNode even = head.next;
         ListNode evenDummy = even;
@@ -27,4 +19,5 @@ public class E1_2_2 {
         odd.next = evenDummy;
         return head;
     }
+
 }
