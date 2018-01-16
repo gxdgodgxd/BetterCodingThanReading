@@ -1,7 +1,9 @@
-package com.gxd.Concurrent;
+package com.gxd.Concurrent.s2;
 
 /**
  * Created by gxdgodgxd on 17/7/10.
+ * this is a wrong example!!!
+ * you should never sync on a Integer!
  */
 public class CountNum implements Runnable{
 
