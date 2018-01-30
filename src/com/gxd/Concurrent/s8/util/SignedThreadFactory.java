@@ -7,9 +7,14 @@ import java.util.concurrent.ThreadFactory;
  */
 public class SignedThreadFactory implements ThreadFactory{
 
+    private int count;
+
+    public SignedThreadFactory() {
+        count = 0;
+    }
 
     @Override
     public Thread newThread(Runnable r) {
-
+        return new SignedThread(r,count++);
     }
 }
