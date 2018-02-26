@@ -2,8 +2,8 @@ package com.gxd.Concurrent.s2;
 
 /**
  * Created by gxdgodgxd on 17/7/10.
- * this is a wrong example!!!
- * you should never sync on a Integer!
+ * this is SameTimeEnd wrong example!!!
+ * you should never sync on SameTimeEnd Integer!
  */
 public class CountNum implements Runnable{
 

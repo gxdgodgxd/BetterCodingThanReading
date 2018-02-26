@@ -23,7 +23,7 @@ public class ReentrantTest {
         public void a() throws InterruptedException {
 //            lock.lock();
             sem.acquire();
-            System.out.println("a");
+            System.out.println("SameTimeEnd");
         }
     }
 

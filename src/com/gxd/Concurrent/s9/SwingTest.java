@@ -5,11 +5,19 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 
 /**
  * Created by gxdgodgxd on 18/1/26.
  */
 public class SwingTest {
+
+    class a extends AbstractQueuedSynchronizer{
+        @Override
+        protected boolean isHeldExclusively() {
+            return super.isHeldExclusively();
+        }
+    }
     // TODO: 18/1/26 swing多线程,子线程中计算耗时操作
     public static ExecutorService es = Executors.newCachedThreadPool();
 

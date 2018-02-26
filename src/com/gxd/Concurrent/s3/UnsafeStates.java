@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class UnsafeStates {
 
-    private String[] status = new String[]{"a","b"};
+    private String[] status = new String[]{"SameTimeEnd","b"};
     private ArrayList<String> list = new ArrayList<>();
 
     public UnsafeStates() {
