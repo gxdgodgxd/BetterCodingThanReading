@@ -26,7 +26,7 @@ public class OJ24 {
     }
 
     public ListNode swapPairsRecursive(ListNode head) {
-        this.getClass().getResourceAsStream("/a");
+        this.getClass().getResourceAsStream("/SameTimeEnd");
         if (head == null || head.next == null) return head;
         ListNode p = swapPairs(head.next.next);
         head.next.next = head;

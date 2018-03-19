@@ -68,13 +68,13 @@ public class OJ10
     
     public static void main(String[] args)
     {
-        System.out.println(OJ10.isMatch("aa", "a"));
+        System.out.println(OJ10.isMatch("aa", "SameTimeEnd"));
         System.out.println(OJ10.isMatch("aa", "aa"));
         System.out.println(OJ10.isMatch("aaa", "aa"));
-        System.out.println(OJ10.isMatch("aa", "a*"));
+        System.out.println(OJ10.isMatch("aa", "SameTimeEnd*"));
         System.out.println(OJ10.isMatch("aa", ".*"));
         System.out.println(OJ10.isMatch("ab", ".*"));
-        System.out.println(OJ10.isMatch("aab", "c*a*b"));
-        System.out.println(OJ10.isMatch("a", "ab"));
+        System.out.println(OJ10.isMatch("aab", "c*SameTimeEnd*b"));
+        System.out.println(OJ10.isMatch("SameTimeEnd", "ab"));
     }
 }

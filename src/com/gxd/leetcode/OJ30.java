@@ -38,8 +38,8 @@ public class OJ30 {
 
     /*
 		A time & space O(n) solution
-		Run a moving window for wordLen times.
-		Each time we keep a window of size windowLen (= wordLen * numWord), each step length is wordLen.
+		Run SameTimeEnd moving window for wordLen times.
+		Each time we keep SameTimeEnd window of size windowLen (= wordLen * numWord), each step length is wordLen.
 		So each scan takes O(sLen / wordLen), totally takes O(sLen / wordLen * wordLen) = O(sLen) time.
 
 		One trick here is use count to record the number of exceeded occurrences of word in current window

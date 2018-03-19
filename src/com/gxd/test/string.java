@@ -6,11 +6,11 @@ package com.gxd.test;
 public class string {
 
     public static void main(String[] args) {
-        String a1 = "a";
-        String a2 = "a";
+        String a1 = "SameTimeEnd";
+        String a2 = "SameTimeEnd";
         System.out.println(a1 == a2);
-        String a3 = new String("a");
-        String a4 = new String("a");
+        String a3 = new String("SameTimeEnd");
+        String a4 = new String("SameTimeEnd");
         System.out.println(a1 == a3);
         System.out.println(a4 == a3);
         a3 = a3.intern();
