@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LeetCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LeetCode_jar</output-path>
+    <root id="archive" name="LeetCode.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="gxd">
+          <element id="directory" name="test">
+            <element id="directory" name="path">
+              <element id="dir-copy" path="$PROJECT_DIR$/out/production/LeetCode/com/gxd/test/path" />
+            </element>
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/conf" />
+    </root>
+  </artifact>
+</component>
