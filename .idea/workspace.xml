@@ -7,13 +7,174 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c45e897-13d0-49e5-aef2-42dd94dc6918" name="Default" comment="s10 s15 s16">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gxd/test/forTest.java" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/spark/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/prop.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BetterCodingThanReading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BetterCodingThanReading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/note/线程池源码备忘.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/note/线程池源码备忘.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s10/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s10/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s15/AtomicUpdaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/AtomicUpdaterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s15/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s16/SafeStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s2/CountNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s2/CountNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/NoVisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/NoVisibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/UnsafeStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/UnsafeStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/threadlocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/threadlocal/TimeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/threadlocal/TimeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/barrier/LeftCycleRightRect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/barrier/LeftCycleRightRect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/CountDownThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/CountDownThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/CounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/TaskKillsTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/TaskKillsTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/TestHarness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/TestHarness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/future/Preloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/future/Preloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/semaphore/BoundedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/semaphore/BoundedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/semaphore/ReentrantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/semaphore/ReentrantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/schedule/ScheduledExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/schedule/ScheduledExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/CompletionRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/CompletionRender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/FutureRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/FutureRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/LoadTravelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/LoadTravelInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/RenderPageWithAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/RenderPageWithAd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellableTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/CancellableTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellingExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/CancellingExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/FileModelSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/FileModelSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SequenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/SequenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/ShutdownHookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/ShutdownHookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SocketUsingTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/SocketUsingTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/MainThreadFinish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/MainThreadFinish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/SameTimeEnd/SameTimeEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/SameTimeEnd/SameTimeEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/ConcurrentPuzzleSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/ConcurrentPuzzleSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/EightQueenPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/EightQueenPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/EightQueenValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/EightQueenValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/WaitForDoneThreadPoolExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/WaitForDoneThreadPoolExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/util/SignedThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/util/SignedThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/util/SignedThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/util/SignedThreadFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/BackgroundTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/BackgroundTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/GuiExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/GuiExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/SwingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/SwingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s3/s3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s3/s3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/SQLCrashCourse/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SQLCrashCourse/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/常见问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/常见问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现bak.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现bak.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/TypeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/TypeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14 类型信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14 类型信息.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s15/note/s15 泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s15/note/s15 泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/Shuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/Shuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/e1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/empty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/empty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/trap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/dp/PalindromePartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/AddLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/AddLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/prop.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/prop.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/APE1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/APE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ByteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ByteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ23B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ23B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ReadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ReadClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ReadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ReadServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/ExecutorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/ExecutorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/JvmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/JvmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/forTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/forTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/path/ClassLoaderPathIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/path/ClassLoaderPathIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/string.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +182,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$JvmTest.coverage" NAME="JvmTest Coverage Results" MODIFIED="1499224474854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.gxd.test.*</FILTER>
@@ -37,68 +197,40 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PetCreator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCreator.java">
+      <file leaf-file-name="TreeBottomLeftNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding />
+            <state relative-caret-position="515">
+              <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/test/string.java">
+      <file leaf-file-name="SafeStates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="186">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/test/forTest.java">
+      <file leaf-file-name="BinaryTreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PalindromePartition.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TypeCounter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/TypeCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="38" column="59" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LiteralPetCreator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="286">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,24 +253,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ22.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ22.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s2/CountNum.java" />
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellableTask.java" />
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellingExecutor.java" />
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SocketUsingTask.java" />
-        <option value="$PROJECT_DIR$/newFile" />
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/ConCurrentPuzzleSolver.java" />
-        <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/M.java" />
         <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/P.java" />
         <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/Puzzle.java" />
         <option value="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/Node.java" />
@@ -183,6 +303,13 @@
         <option value="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/TypeCounter.java" />
         <option value="$PROJECT_DIR$/src/com/gxd/test/forTest.java" />
         <option value="$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java" />
+        <option value="$PROJECT_DIR$/src/com/gxd/algrithms/leetcode/APE1.java" />
+        <option value="$PROJECT_DIR$/src/com/gxd/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/gxd/algrithms/others/TreeBottomLeftNode.java" />
+        <option value="$PROJECT_DIR$/src/com/gxd/common/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java" />
       </list>
     </option>
   </component>
@@ -192,17 +319,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="y" value="23" />
     <option name="width" value="1676" />
@@ -411,211 +537,84 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="s14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="s14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="essentials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BetterCodingThanReading" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gxd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="essentials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gxd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gxd" type="462c0819:PsiDirectoryNode" />
+              <item name="essentials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BetterCodingThanReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BetterCodingThanReading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gxd" type="462c0819:PsiDirectoryNode" />
+              <item name="essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="treenode&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java&#10;oj15&#9;PSI&#9;JAVA://com.gxd.leetcode.OJ15&#10;oj16&#9;PSI&#9;JAVA://com.gxd.leetcode.OJ16&#10;e12&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/essentials/array/E12.java&#10;e3&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/essentials/array/E3.java&#10;oj1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/leetcode/OJ1.java&#10;oj26&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/leetcode/OJ26.java&#10;OJ28&#9;PSI&#9;JAVA://com.gxd.OJ28&#10;oj10&#9;PSI&#9;JAVA://com.gxd.OJ10&#10;oj17&#9;PSI&#9;JAVA://com.gxd.OJ17&#10;oj30&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/OJ30.java&#10;oj24&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/OJ24.java&#10;test&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/test.java&#10;ape1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE1.java&#10;ape2&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE2.java&#10;APE2&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE2.java&#10;APE1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="oj15&#9;PSI&#9;JAVA://com.gxd.leetcode.OJ15&#10;oj16&#9;PSI&#9;JAVA://com.gxd.leetcode.OJ16&#10;e12&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/essentials/array/E12.java&#10;e3&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/essentials/array/E3.java&#10;oj1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/leetcode/OJ1.java&#10;oj26&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/leetcode/OJ26.java&#10;OJ28&#9;PSI&#9;JAVA://com.gxd.OJ28&#10;oj10&#9;PSI&#9;JAVA://com.gxd.OJ10&#10;oj17&#9;PSI&#9;JAVA://com.gxd.OJ17&#10;oj30&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/OJ30.java&#10;oj24&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/OJ24.java&#10;test&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/test.java&#10;ape1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE1.java&#10;ape2&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE2.java&#10;APE2&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE2.java&#10;APE1&#9;FILE&#9;file:///Users/gxdgodgxd/Documents/workspace/LeetCode/src/com/gxd/APE1.java" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="OverrideImplement.combined" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -627,112 +626,196 @@
       <recent name="$PROJECT_DIR$/src/com/gxd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromePartition">
-    <configuration default="false" name="SequenceManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TreeBottomLeftNode">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="JvmTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.test.JvmTest" />
+      <module name="LeetCode" />
+      <option name="VM_PARAMETERS" value="-Xms1m -Xmx1m -XX:-UseGCOverheadLimit" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gxd.Concurrent.s7.*" />
+          <option name="PATTERN" value="com.gxd.test.path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.Concurrent.s7.SequenceManager" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BetterCodingThanReading" />
-      <envs />
-      <method />
     </configuration>
-    <configuration default="false" name="PetCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.gxd.ThinkingInJava.s14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.ThinkingInJava.s14.PetCount" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="PalindromePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.essentials.dp.PalindromePartition" />
       <module name="BetterCodingThanReading" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TypeCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.gxd.ThinkingInJava.s14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.ThinkingInJava.s14.TypeCounter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BetterCodingThanReading" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.gxd.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.test.forTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BetterCodingThanReading" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PalindromePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gxd.essentials.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.essentials.dp.PalindromePartition" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+    </configuration>
+    <configuration name="PetCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.ThinkingInJava.s14.PetCount" />
+      <module name="BetterCodingThanReading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gxd.ThinkingInJava.s14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TreeBottomLeftNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.algrithms.others.TreeBottomLeftNode" />
+      <module name="BetterCodingThanReading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gxd.algrithms.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TypeCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.ThinkingInJava.s14.TypeCounter" />
+      <module name="BetterCodingThanReading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gxd.ThinkingInJava.s14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gxd.test.forTest" />
+      <module name="BetterCodingThanReading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gxd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BetterCodingThanReading" />
-      <envs />
-      <method />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="LeetCode" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
@@ -771,202 +854,6 @@
       <option name="PREFERRED_AVD" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -986,97 +873,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
@@ -1127,61 +923,24 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="JvmTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.gxd.test.path.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gxd.test.JvmTest" />
-      <option name="VM_PARAMETERS" value="-Xms1m -Xmx1m -XX:-UseGCOverheadLimit" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.JvmTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SequenceManager" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PetCount" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TypeCounter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.forTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.PalindromePartition" />
+    <list>
+      <item itemvalue="Application.JvmTest" />
+      <item itemvalue="Application.PetCount" />
+      <item itemvalue="Application.TypeCounter" />
+      <item itemvalue="Application.forTest" />
+      <item itemvalue="Application.PalindromePartition" />
+      <item itemvalue="Application.TreeBottomLeftNode" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PalindromePartition" />
-        <item index="1" class="java.lang.String" itemvalue="Application.forTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TypeCounter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PetCount" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SequenceManager" />
+      <list>
+        <item itemvalue="Application.TreeBottomLeftNode" />
+        <item itemvalue="Application.PalindromePartition" />
+        <item itemvalue="Application.forTest" />
+        <item itemvalue="Application.TypeCounter" />
+        <item itemvalue="Application.PetCount" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1240,6 +999,7 @@
       <workItem from="1524893872232" duration="1290000" />
       <workItem from="1526005476665" duration="1192000" />
       <workItem from="1526616702308" duration="39000" />
+      <workItem from="1566878648826" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1474706260837</created>
@@ -1343,69 +1103,78 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288262000" />
+    <option name="totallyTimeSpent" value="289854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3828877" sideWeight="0.50367194" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15614973" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.497558" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1627907" sideWeight="0.49080622" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17992656" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1627907" sideWeight="0.5091938" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272727" sideWeight="0.49632803" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24385026" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22276622" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32925585" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50367194" side_tool="true" weight="0.3828877" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32960597" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24362895" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.497558" weight="0.15614973" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32925585" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.14323749" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="BPMNPalette" />
+      <window_info id="Learn" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.17992656" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24969475" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49632803" weight="0.32721713" />
+      <window_info id="Favorites" order="1" sideWeight="0.5091938" side_tool="true" weight="0.1627907" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="0" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3828877" sideWeight="0.50367194" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17992656" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3828877" sideWeight="0.49632803" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15614973" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24385026" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22276622" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.497558" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1627907" sideWeight="0.49080622" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1627907" sideWeight="0.5091938" order="1" side_tool="true" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
+      <window_info id="Structure" order="5" weight="0.17992656" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24969475" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.497558" weight="0.15614973" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24385026" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32982457" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="0" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49632803" weight="0.3828877" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50367194" side_tool="true" weight="0.3828877" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="Favorites" order="1" sideWeight="0.5091938" side_tool="true" weight="0.1627907" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32941177" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32967034" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.1627907" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1431,55 +1200,55 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ20.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ20.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ21.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ21.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/APE1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/APE1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java</url>
           <line>71</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/APE1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java</url>
           <line>83</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/Quicksort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Quicksort.java</url>
           <line>65</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/Mergesort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Mergesort.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/ByteTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ByteTest.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/ByteTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ByteTest.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="30" />
@@ -1503,49 +1272,49 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ24.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ24.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ24.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ24.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/leetcode/OJ30.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ30.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/array/E1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E1.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/array/E2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E2.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/array/E10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E10.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_5.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_5.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_5.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_5.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="75" />
@@ -1557,37 +1326,37 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/array/trap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/trap.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/Concurrent/s2/CountNum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s2/CountNum.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/Concurrent/s2/CountNum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s2/CountNum.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/Concurrent/s15/AtomicUpdaterTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/AtomicUpdaterTest.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/dp/PalindromePartition.java</url>
           <line>8</line>
           <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/dp/PalindromePartition.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="129" />
@@ -1611,83 +1380,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2615">
-          <caret line="668" column="45" selection-start-line="668" selection-start-column="45" selection-end-line="668" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="809" column="45" selection-start-line="809" selection-start-column="45" selection-end-line="809" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="2299" column="33" selection-start-line="2299" selection-start-column="33" selection-end-line="2299" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s10/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="348" column="23" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="138" column="23" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="1059" column="30" selection-start-line="1059" selection-start-column="22" selection-end-line="1059" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Long.java" />
     <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s15.java" />
     <entry file="file://$PROJECT_DIR$/cat.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1696,70 +1389,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s9/BackgroundTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/BackgroundTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7876">
-          <caret line="403" column="34" selection-start-line="403" selection-start-column="34" selection-end-line="403" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s9/SwingTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/SwingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="163" column="8" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1186">
-          <caret line="213" column="31" selection-start-line="213" selection-start-column="26" selection-end-line="213" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s3/UnsafeStates.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/UnsafeStates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/note/线程池源码备忘.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/note/线程池源码备忘.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="264">
@@ -1768,82 +1425,44 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cat1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s15/AtomicUpdaterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/AtomicUpdaterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newFile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="488" column="11" selection-start-line="488" selection-start-column="11" selection-end-line="488" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s7/ShutdownHookTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/ShutdownHookTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s7/Sequence.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s7/FileModelSequence.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/FileModelSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
           <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
@@ -1851,137 +1470,183 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sequence">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/Thinking in Java.md" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="848" column="11" selection-start-line="848" selection-start-column="11" selection-end-line="848" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Cat.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Pet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SequenceManager.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/SequenceManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s15/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/Concurrent/s16/SafeStates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="571">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCount2.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="509" column="26" selection-start-line="509" selection-start-column="26" selection-end-line="509" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCount.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
-          <caret line="33" column="9" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
+          <caret line="33" column="9" selection-start-line="28" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/test/string.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/test/string.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/test/forTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/test/forTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/TypeCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/TypeCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="38" column="59" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/SQLCrashCourse/notes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/dp/PalindromePartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s3/s3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2016,6 +1681,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>scala-sdk-2.10.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2064,6 +1730,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.18.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
