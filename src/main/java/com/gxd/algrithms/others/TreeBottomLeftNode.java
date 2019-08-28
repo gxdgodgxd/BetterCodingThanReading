@@ -17,34 +17,25 @@ public class TreeBottomLeftNode {
     public static int getTreeBottomLeftNode(BinaryTreeNode root) {
         Queue<BinaryTreeNode> queue = new LinkedList<>();
         queue.offer(root);
-        int curLevel = 1;
-        int nextLevel = 0;
         BinaryTreeNode cur = null;
         while (!queue.isEmpty()) {
-
-            for (int i = curLevel; i > 0; i--) {
-                cur = queue.poll();
-                if (cur.right != null) {
-                    queue.offer(cur.right);
-                    nextLevel++;
-                }
-                if (cur.left != null) {
-                    queue.offer(cur.left);
-                    nextLevel++;
-                }
+            cur = queue.poll();
+            if (cur.right != null) {
+                queue.offer(cur.right);
             }
-
-            curLevel = nextLevel;
-            nextLevel = 0;
+            if (cur.left != null) {
+                queue.offer(cur.left);
+            }
         }
 
         return cur.value;
     }
 
     public static void main(String[] args) {
-        BinaryTreeNode node6 = BinaryTreeNode.builder().value(6).build();
+//        BinaryTreeNode node6 = BinaryTreeNode.builder().value(6).build();
         BinaryTreeNode node4 = BinaryTreeNode.builder().value(4).build();
-        BinaryTreeNode node5 = BinaryTreeNode.builder().value(5).left(node6).build();
+//        BinaryTreeNode node5 = BinaryTreeNode.builder().value(5).left(node6).build();
+        BinaryTreeNode node5 = BinaryTreeNode.builder().value(5).build();
         BinaryTreeNode node2 = BinaryTreeNode.builder().value(2).right(node4).build();
         BinaryTreeNode node3 = BinaryTreeNode.builder().value(3).left(node5).build();
         BinaryTreeNode node1 = BinaryTreeNode.builder().value(1).left(node2).right(node3).build();

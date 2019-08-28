@@ -7,168 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c45e897-13d0-49e5-aef2-42dd94dc6918" name="Default" comment="s10 s15 s16">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gxd/spark/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/prop.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BetterCodingThanReading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BetterCodingThanReading.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/note/线程池源码备忘.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/note/线程池源码备忘.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s10/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s10/DeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s15/AtomicUpdaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/AtomicUpdaterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s15/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s15/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s16/SafeStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s2/CountNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s2/CountNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/NoVisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/NoVisibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/UnsafeStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/UnsafeStates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/threadlocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/threadlocal/ThreadLocalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s3/threadlocal/TimeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s3/threadlocal/TimeCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/barrier/LeftCycleRightRect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/barrier/LeftCycleRightRect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/CountDownThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/CountDownThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/TaskKillsTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/TaskKillsTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/countdownlatch/TestHarness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/countdownlatch/TestHarness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/future/Preloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/future/Preloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/semaphore/BoundedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/semaphore/BoundedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s5/semaphore/ReentrantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s5/semaphore/ReentrantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/schedule/ScheduledExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/schedule/ScheduledExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/CompletionRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/CompletionRender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/FutureRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/FutureRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/LoadTravelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/LoadTravelInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s6/task/execution/RenderPageWithAd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s6/task/execution/RenderPageWithAd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellableTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/CancellableTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/CancellingExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/CancellingExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/FileModelSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/FileModelSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SequenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/SequenceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/ShutdownHookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/ShutdownHookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s7/SocketUsingTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s7/SocketUsingTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/MainThreadFinish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/MainThreadFinish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/SameTimeEnd/SameTimeEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/SameTimeEnd/SameTimeEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/ConcurrentPuzzleSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/ConcurrentPuzzleSolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/EightQueenPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/EightQueenPuzzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/EightQueenValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/EightQueenValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/Puzzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/eightqueen/WaitForDoneThreadPoolExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/eightqueen/WaitForDoneThreadPoolExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/util/SignedThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/util/SignedThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s8/util/SignedThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s8/util/SignedThreadFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/BackgroundTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/BackgroundTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/GuiExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/GuiExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/Concurrent/s9/SwingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s9/SwingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s1/s1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s1/s1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/DesignPattern/s3/s3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/DesignPattern/s3/s3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/JVM/note/section5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/JVM/note/section5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/SQLCrashCourse/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SQLCrashCourse/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/常见问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/常见问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现bak.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/SpringInternals/第二章 Spring Framework的核心：IoC容器的实现bak.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/ForNamePetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/LiteralPetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/PetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/TypeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/TypeCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/domain/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/domain/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14 类型信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14 类型信息.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s14/note/s14-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s14/note/s14-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/ThinkingInJava/s15/note/s15 泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/ThinkingInJava/s15/note/s15 泛型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/E7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/Shuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/Shuffle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/e1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/E1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/empty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/empty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/array/trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/array/trap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/dp/PalindromePartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/dp/PalindromePartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/AddLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/AddLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/E1_2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/E1_2_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/essentials/prop.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/essentials/prop.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/APE1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/APE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/APE2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ByteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ByteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Mergesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ23B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ23B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/OJ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/OJ9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/Quicksort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ReadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ReadClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/leetcode/ReadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/leetcode/ReadServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/ExecutorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/ExecutorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/JvmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/JvmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/forTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/forTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/path/ClassLoaderPathIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/path/ClassLoaderPathIssue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gxd/test/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/test/string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -205,8 +45,8 @@
       <file leaf-file-name="TreeBottomLeftNode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
+            <state relative-caret-position="453">
+              <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,7 +57,7 @@
       <file leaf-file-name="SafeStates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="726">
               <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
@@ -226,7 +66,7 @@
       <file leaf-file-name="BinaryTreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="264">
               <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -328,7 +168,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="4" />
     <option name="y" value="23" />
     <option name="width" value="1676" />
@@ -544,6 +384,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -600,7 +441,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -999,7 +839,8 @@
       <workItem from="1524893872232" duration="1290000" />
       <workItem from="1526005476665" duration="1192000" />
       <workItem from="1526616702308" duration="39000" />
-      <workItem from="1566878648826" duration="1592000" />
+      <workItem from="1566878648826" duration="1657000" />
+      <workItem from="1566989079554" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1474706260837</created>
@@ -1103,74 +944,74 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289854000" />
+    <option name="totallyTimeSpent" value="289967000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32925585" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50367194" side_tool="true" weight="0.3828877" />
       <window_info anchor="right" id="Maven Projects" order="2" weight="0.32960597" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24362895" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.497558" weight="0.15614973" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32925585" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24269006" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32846004" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.14323749" />
-      <window_info anchor="bottom" id="Statistic" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.14483494" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
-      <window_info anchor="right" id="BPMNPalette" />
-      <window_info id="Learn" />
+      <window_info anchor="right" id="BPMNPalette" order="3" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.17992656" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24969475" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49632803" weight="0.32721713" />
       <window_info id="Favorites" order="1" sideWeight="0.5091938" side_tool="true" weight="0.1627907" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49632803" weight="0.32721713" />
+      <window_info id="UI Designer" order="0" />
+      <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" order="5" weight="0.4" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="0" />
-      <window_info anchor="right" id="Dynamic Properties" order="0" />
-      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.497558" weight="0.15614973" />
       <window_info anchor="right" id="Dynamic Properties" order="0" />
       <window_info id="Structure" order="5" weight="0.17992656" />
       <window_info anchor="right" id="Commander" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24969475" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.497558" weight="0.15614973" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24385026" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32982457" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32941177" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="0" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32967034" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.1627907" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49632803" weight="0.3828877" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.497558" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50367194" side_tool="true" weight="0.3828877" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info id="Favorites" order="1" sideWeight="0.5091938" side_tool="true" weight="0.1627907" />
+      <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32941177" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32967034" />
-      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49080622" visible="true" weight="0.1627907" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22276622" />
+      <window_info id="Favorites" order="1" sideWeight="0.5091938" side_tool="true" weight="0.1627907" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1594,13 +1435,7 @@
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1789#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1618,7 +1453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/common/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="264">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1628,7 +1463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/Concurrent/s16/SafeStates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="726">
           <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
         </state>
       </provider>
@@ -1642,8 +1477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gxd/algrithms/others/TreeBottomLeftNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
+        <state relative-caret-position="453">
+          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
